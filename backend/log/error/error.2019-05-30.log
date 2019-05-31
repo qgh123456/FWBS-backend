@@ -1,0 +1,11 @@
+2019-05-30 15:37:59.291 febs [main] ERROR c.m.f.common.runner.CacheInitRunner - 缓存初始化失败，Could not get a resource from the pool
+2019-05-30 15:37:59.291 febs [main] ERROR c.m.f.common.runner.CacheInitRunner -  ____   __    _   _ 
+2019-05-30 15:37:59.291 febs [main] ERROR c.m.f.common.runner.CacheInitRunner - | |_   / /\  | | | |
+2019-05-30 15:37:59.291 febs [main] ERROR c.m.f.common.runner.CacheInitRunner - |_|   /_/--\ |_| |_|__
+2019-05-30 15:37:59.291 febs [main] ERROR c.m.f.common.runner.CacheInitRunner -                         
+2019-05-30 15:37:59.291 febs [main] ERROR c.m.f.common.runner.CacheInitRunner - FEBS启动失败              
+2019-05-30 15:37:59.291 febs [main] ERROR c.m.f.common.runner.CacheInitRunner - Redis连接异常，请检查Redis连接配置并确保Redis服务已启动
+2019-05-30 17:28:46.883 febs [http-nio-9527-exec-4] ERROR c.m.f.c.authentication.JWTFilter - token已经过期
+2019-05-30 17:28:46.887 febs [http-nio-9527-exec-4] ERROR c.m.f.c.authentication.JWTFilter - token已经过期
+2019-05-30 17:28:51.591 febs [http-nio-9527-exec-1] ERROR c.m.febs.common.utils.AddressUtil - 获取地址信息异常：null
+2019-05-30 17:28:52.900 febs [http-nio-9527-exec-1] ERROR c.m.febs.common.utils.AddressUtil - 获取地址信息异常：null
