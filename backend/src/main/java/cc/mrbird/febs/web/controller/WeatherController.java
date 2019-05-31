@@ -25,6 +25,7 @@ public class WeatherController {
         try {
             String data = HttpUtil.sendPost(FebsConstant.MEIZU_WEATHER_URL, "cityIds=" + areaId);
             return new FebsResponse().data(data);
+
         } catch (Exception e) {
             String message = "天气查询失败";
             log.error(message, e);
